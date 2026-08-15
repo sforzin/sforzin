@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/sforzin/sforzin/main/banner.png" alt="Igor Sforzin — banner" />
+<img width="100%" src="[https://raw.githubusercontent.com/sforzin/sforzin/main/banner.png](https://github.com/sforzin/sforzin/blob/main/banner)" alt="Igor Sforzin — banner" />
 
 <a href="https://github.com/sforzin">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+for+Telecom;Embedded+Systems+%2B+DSP+%2B+AI;Edge+AI+%7C+TinyML+%7C+GNNs+%7C+RAG+%2F+Agents;From+Bare-Metal+C+to+Production+MLOps" alt="Typing SVG" />
