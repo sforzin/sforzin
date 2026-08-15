@@ -1,29 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6366F1,100:A855F7&height=200&section=header&text=Igor%20Sforzin&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Electrical%20Engineer%20%E2%86%92%20Machine%20Learning%20Engineer%20%7C%20AI%20for%20Telecom&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a160e,50:00C853,100:39FF14&height=200&section=header&text=Igor%20Sforzin&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%E2%86%92%20Machine%20Learning%20Engineer%20%7C%20AI%20for%20Telecom&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/sforzin">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+for+Telecom;Embedded+Systems+%2B+DSP+%2B+AI;Edge+AI+%7C+TinyML+%7C+GNNs+%7C+RAG+%2F+Agents;From+Bare-Metal+C+to+Production+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+for+Telecom;Embedded+Systems+%2B+DSP+%2B+AI;Edge+AI+%7C+TinyML+%7C+GNNs+%7C+RAG+%2F+Agents;From+Bare-Metal+C+to+Production+MLOps" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/M.Sc.%20Electrical%20Engineering-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/UNICAMP-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/📍%20São%20Paulo,%20Brazil-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/B.Sc.%20Electrical%20Engineering%20(in%20progress)-00C853?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/UNICAMP-00E676?style=for-the-badge&logo=academia&logoColor=0a160e" />
+<img src="https://img.shields.io/badge/📍%20São%20Paulo,%20Brazil-10B981?style=for-the-badge" />
 
 <br/><br/>
 
-<a href="https://github.com/sforzin"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
-<a href="www.linkedin.com/in/igor-vinicius-meireles-sforzin-47355b1b4"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:igor.sforzin@email.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sforzin/Portfolio-DataScience-IA"><img src="https://img.shields.io/badge/Portfolio-0a160e?style=for-the-badge&logo=github&logoColor=39FF14" /></a>
+<a href="https://www.linkedin.com/in/igor-vinicius-meireles-sforzin-47355b1b4"><img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:igor.sforzin@email.com"><img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=0a160e" /></a>
 <a href="https://github.com/sforzin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sforzin&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/sforzin?style=for-the-badge&color=6366F1&labelColor=0f0c29&logo=github" />
-<img src="https://img.shields.io/github/stars/sforzin?style=for-the-badge&color=A855F7&labelColor=0f0c29&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=sforzin&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/sforzin?style=for-the-badge&color=00E676&labelColor=0a160e&logo=github" />
+<img src="https://img.shields.io/github/stars/sforzin?style=for-the-badge&color=39FF14&labelColor=0a160e&logo=github" />
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" />
 
-Electrical Engineer specializing in **R&D and systems integration** at a telecommunications engineering integrator, evolving into a **Machine Learning Engineer** focused on AI applied to telecom infrastructure — network traffic, fault detection, NOC automation, and analytics.
+Electrical Engineering student specializing in **R&D and systems integration** at a telecommunications engineering integrator, evolving into a **Machine Learning Engineer** focused on AI applied to telecom infrastructure — network traffic, fault detection, NOC automation, and analytics.
 
 - 🧠 Deep foundation in **calculus, linear algebra, DSP, and probability** — I favor understanding the *mathematical why* before reaching for a library.
 - 🛠️ Advanced engineering across **Python, C, and Assembly**, with production instincts around efficiency, memory, and latency.
@@ -76,7 +76,7 @@ Electrical Engineer specializing in **R&D and systems integration** at a telecom
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/TinyML-6366F1?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TinyML-00C853?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
 
 </div>
@@ -196,10 +196,10 @@ Driving the adoption of machine learning and data-driven methods within telecom 
 - Translate DSP and communication-protocol expertise into ML feature engineering.
 
 <sub>
-<img src="https://img.shields.io/badge/Systems%20Integration-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Telecom%20R%26D-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Applied%20ML-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Systems%20Integration-00E676?style=flat-square" />
+<img src="https://img.shields.io/badge/Telecom%20R%26D-00C853?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/Applied%20ML-39FF14?style=flat-square" />
 </sub>
 
 ---
@@ -225,8 +225,8 @@ Driving the adoption of machine learning and data-driven methods within telecom 
 
 **Amazon Web Services**
 
-<img src="https://img.shields.io/badge/AWS%20ML%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS%20ML%20Specialty-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00E676" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00E676" />
 
 **TensorFlow / Google**
 
@@ -238,7 +238,7 @@ Driving the adoption of machine learning and data-driven methods within telecom 
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL%20Machine%20Learning-2E5AAC?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL%20Machine%20Learning-00C853?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 **Cisco**
 
@@ -252,10 +252,10 @@ Driving the adoption of machine learning and data-driven methods within telecom 
 
 <div align="center">
 
-<a href="https://leetcode.com/sforzin"><img src="https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/sforzin"><img src="https://img.shields.io/badge/GeeksforGeeks-0f0c29?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" height="40" /></a>
-<a href="https://www.hackerrank.com/sforzin"><img src="https://img.shields.io/badge/HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=00EA64" height="40" /></a>
-<a href="https://www.codechef.com/users/sforzin"><img src="https://img.shields.io/badge/CodeChef-0f0c29?style=for-the-badge&logo=codechef&logoColor=A855F7" height="40" /></a>
+<a href="https://leetcode.com/sforzin"><img src="https://img.shields.io/badge/LeetCode-0a160e?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sforzin"><img src="https://img.shields.io/badge/GeeksforGeeks-0a160e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" height="40" /></a>
+<a href="https://www.hackerrank.com/sforzin"><img src="https://img.shields.io/badge/HackerRank-0a160e?style=for-the-badge&logo=hackerrank&logoColor=00EA64" height="40" /></a>
+<a href="https://www.codechef.com/users/sforzin"><img src="https://img.shields.io/badge/CodeChef-0a160e?style=for-the-badge&logo=codechef&logoColor=39FF14" height="40" /></a>
 
 </div>
 
@@ -265,12 +265,12 @@ Driving the adoption of machine learning and data-driven methods within telecom 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sforzin&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=6366F1&text_color=c9d1d9&bg_color=0f0c29" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sforzin&hide_border=true&background=0f0c29&stroke=6366F1&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sforzin&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&icon_color=00E676&text_color=c9d1d9&bg_color=0a160e" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sforzin&hide_border=true&background=0a160e&stroke=00E676&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sforzin&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0f0c29&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sforzin&layout=compact&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0a160e&langs_count=8" />
 
 </div>
 
@@ -280,7 +280,7 @@ Driving the adoption of machine learning and data-driven methods within telecom 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sforzin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=sforzin&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -290,7 +290,7 @@ Driving the adoption of machine learning and data-driven methods within telecom 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sforzin&bg_color=0f0c29&color=A855F7&line=6366F1&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sforzin&bg_color=0a160e&color=39FF14&line=00E676&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -334,10 +334,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:igor.sforzin@email.com"><img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sforzin"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:igor.sforzin@email.com"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=0a160e" /></a>
+<a href="https://www.linkedin.com/in/igor-vinicius-meireles-sforzin-47355b1b4"><img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sforzin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/sforzin"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/sforzin/Portfolio-DataScience-IA"><img src="https://img.shields.io/badge/Portfolio-00E676?style=for-the-badge&logo=github&logoColor=0a160e" /></a>
 
 </div>
 
@@ -347,6 +347,6 @@ open_to:
 
 *"From bare-metal signals to intelligent networks — engineering the bridge between hardware and AI."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:0f0c29&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00C853,100:0a160e&height=120&section=footer" />
 
 </div>
