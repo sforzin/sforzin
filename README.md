@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://github.com/sforzin"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A855F7" /></a>
-<a href="https://www.linkedin.com/in/sforzin"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/igor-vinicius-meireles-sforzin-47355b1b4"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:igor.sforzin@email.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/sforzin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
