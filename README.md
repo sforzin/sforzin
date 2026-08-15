@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="banner" alt="Igor Sforzin — banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050a14,50:00BFFF,100:00F0FF&height=200&section=header&text=Igor%20Sforzin&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Electrical%20Engineering%20Student%20%E2%86%92%20Machine%20Learning%20Engineer%20%7C%20AI%20for%20Telecom&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/sforzin">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+for+Telecom;Embedded+Systems+%2B+DSP+%2B+AI;Edge+AI+%7C+TinyML+%7C+GNNs+%7C+RAG+%2F+Agents;From+Bare-Metal+C+to+Production+MLOps" alt="Typing SVG" />
